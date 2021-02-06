@@ -1,3 +1,3 @@
-.data
+volumes/*-db-data*
 env/*
 !env/.keep
